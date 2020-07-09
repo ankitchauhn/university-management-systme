@@ -1,0 +1,2 @@
+# university-management-systme
+University Management System starts with the registration of new staff and students.This computerized system will make the overall management system easy, accessible, comfortable and effective for students and teachers. It mainly focuses on the calculation of Students marks and teachers &amp; students attendunce details during the specified time and the Fess to be paid to University Office.
